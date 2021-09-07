@@ -12,10 +12,8 @@ def main():
             numero2=suma
         print (str(sum))
         break
-
     if index==0:
         print("0")
-
     elif index==1:
         print ("1")
     pass
