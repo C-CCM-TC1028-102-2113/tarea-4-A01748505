@@ -10,7 +10,7 @@ def main():
             suma=numero1+numero2
             numero1=numero2
             numero2=suma
-        print (str(sum))
+        print (str(suma))
         break
     if index==0:
         print("0")
